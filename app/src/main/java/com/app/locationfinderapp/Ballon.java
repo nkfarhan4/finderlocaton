@@ -63,13 +63,13 @@ public class Ballon extends Activity {
 	}
 
 
-	public void displayInterstitial() {
+	/*commentbynaeem  public void displayInterstitial() {
 
 		// If Ads are loaded, show Interstitial else show nothing.
 		if (interstitial.isLoaded()) {
 			interstitial.show();
 		}
-	}
+	}*/
 	private void initViews() {
 
 		com.google.android.gms.ads.AdView adView = new com.google.android.gms.ads.AdView(Ballon.this);
@@ -177,14 +177,14 @@ public class Ballon extends Activity {
 						@Override
 						public void onFinish() {
 
-							interstitial.loadAd(adRequest1);
+							/*interstitial.loadAd(adRequest1);
 							// Prepare an Interstitial Ad Listener
 							interstitial.setAdListener(new AdListener() {
 								public void onAdLoaded() {
 									displayInterstitial();
 
-								}
-							});
+							}
+							});naeem*/
 
 						}
 					}.start();
