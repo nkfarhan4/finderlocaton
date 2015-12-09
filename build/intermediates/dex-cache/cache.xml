@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-4b597f82fecf2fdf371f0d40ee8d471099164e21.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-bd17adaf096345efdd2c02894cdc773e0ef1999f.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-211c64b4ffdaf7dc4b9f2a821f215380ceb59f3e.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\internal_impl-23.1.0-d14f15b13a6e652be552777bb658ee31765134ec.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-e7f53bfad9ca477c7339a09f8173a93cb3acab02.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-9178cd21eaaf7469e0cab62429e6fd1cafff0a83.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-708d02141d293f6ce84f674b961f0bb7213d3921.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-cbf49181df7b09678b94430908b48ca8e4e4e657.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-bd500fd34d3a399cf3a7b7650ceb98340a6304a6.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-9bde53529563b35b933c8e590bc43e942afb7edb.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-e60aafe956bea6ef1c644777c5aedf466173a9c3.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-e55ff775b9fcbce0cccfdba4c9105a2cc8fa391d.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="82054090e487d78e163a988557db62d809fa9b95">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-6462a488c6241b4fd5e13120b1d69e49095ad8ee.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-31d1d34acdd341c11586dac5ab038eceb754bdf1.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-615e364071e0443522f95fbb6fb5395e0f91aca1.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-ff7e8e04c5df115c8bed956d1478b871bcb62a21.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-f25e07d872a8a51af263a36fda4b613aecb1e2d8.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-f6920ad245354626e3bfba7efe910346742b8bec.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-8e652716d301e76c85f14b6ad6c5cdc32ab2dbd9.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-ec540215e1d2b9211ba31f95f2a1f629e063beed.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-f9a659242036175a0c06af16528c6c86de1da2da.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-e021812a4ff0a23b14a0930675d61939bbe9f1ae.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-c5f3dae8a3ef79168c8fb929d083f86705ee6640.jar" />
+    </item>
+    <item
+        jar="C:\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\support-annotations-23.1.0-fc6e3bb5cd52488ddf0f1a0faffd64de93a508ad.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-db1244770a71f0c6deb2672793c81a339e5b04bb.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-82a10212f1865816bbdef1933bb5e83336e55dfe.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\internal_impl-22.2.0-0fa3ccd7e49bada186cdfe181992145a00490dd6.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-bb48baaf5d2a54c578ac163ae8b44fd33fc614b0.jar" />
+    </item>
+    <item
+        jar="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="G:\studio_project_21_10_2015\locationfinder\LocationFinderAppnew\app\build\intermediates\pre-dexed\release\classes-4b39cb057b54f3466ac0ed40ff9df73a5473ccd3.jar" />
+    </item>
+
+</items>
